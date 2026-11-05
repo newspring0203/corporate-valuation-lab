@@ -1,0 +1,17 @@
+# Local documentation, spreadsheets, source artifacts and generated results
+README.md
+README.local.md
+excel/
+local/
+outputs/
+*.xlsx
+*.png
+*.csv
+*.pdf
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
