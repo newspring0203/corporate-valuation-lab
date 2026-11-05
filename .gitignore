@@ -1,10 +1,9 @@
-# Local documentation, spreadsheets, source artifacts and generated results
-README.md
+# Local drafts, source artifacts and generated results
 README.local.md
-excel/
 local/
 outputs/
 *.xlsx
+!excel/A_company_valuation.xlsx
 *.png
 *.csv
 *.pdf

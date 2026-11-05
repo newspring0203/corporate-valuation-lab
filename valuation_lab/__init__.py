@@ -1,4 +1,4 @@
-"""Educational DCF, comparable-company and adjusted-NAV calculations.
+"""DCF, comparable-company and adjusted-NAV calculations for a fictional case.
 
 All example monetary amounts use KRW 100 million (억원).
 No market observations or professional valuation conclusions are provided.

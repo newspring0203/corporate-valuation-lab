@@ -66,7 +66,7 @@ def dcf(inputs: DCFInputs):
     """End-year FCFF DCF with a separately rederived stable-growth year.
 
 NOPAT uses EBIT*(1-tax), including a symmetric tax benefit for negative EBIT.
-That convention is only an educational simplification, not a tax-loss model.
+That convention is a simplifying assumption, not a tax-loss model.
 Additional obligation is a present-value amount excluded from FCFF/net debt.
 """
     if not isinstance(inputs, DCFInputs):
